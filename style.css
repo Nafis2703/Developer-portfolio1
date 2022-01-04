@@ -13,3 +13,10 @@
 section{
     display: flex;
 }
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+}
