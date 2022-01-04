@@ -1,0 +1,15 @@
+
+.my-name{
+    color: palegreen;
+}
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, green);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+section{
+    display: flex;
+}
